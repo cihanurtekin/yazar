@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666121559400",
+    "project_id": "yazar-d3654",
+    "storage_bucket": "yazar-d3654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666121559400:android:f660029df872ef08cc0add",
+        "android_client_info": {
+          "package_name": "com.cihanurtekin.yazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666121559400-72b1d7i28ju8um9n9kk71dg2qken1t2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cihanurtekin.yazar",
+            "certificate_hash": "24e5b42e65948097c0c1e7c3a26fcf6e7d3df5b8"
+          }
+        },
+        {
+          "client_id": "666121559400-3nqp4vj2nvv19ivaa8b4jpv40tqs5bi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNGJvQp-D5yRESd-YdAC9b89xmqCDsv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666121559400-3nqp4vj2nvv19ivaa8b4jpv40tqs5bi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
